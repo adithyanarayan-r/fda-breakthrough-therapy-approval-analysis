@@ -18,7 +18,6 @@ The dashboard explores therapy area distribution, annual approval trends, and le
 ##  Tools Used
 - Power BI
 - Microsoft Excel (Data Cleaning)
-- GitHub (Version Control & Portfolio Hosting)
 
 ---
 
