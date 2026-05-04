@@ -40,32 +40,32 @@ To identify trends in breakthrough drug approvals and highlight dominant therapy
 
 ---
 
-### 🏢 Company Insights
+### Company Insights
 - **Genentech Inc. leads total approvals**, followed by Daiichi Sankyo and Novartis  
 - A few companies contribute a large share of approvals  
 - Indicates a semi-concentrated competitive landscape  
 
 ---
 
-### 📊 Year-wise Behavior
+### Year-wise Behavior
 - Oncology approvals remain consistently high across all years  
 - Other therapy areas show fluctuations year-to-year  
 
 ---
 
-### ⚔️ Competitive Dynamics
+### Competitive Dynamics
 - No single company dominates every year  
 - Leadership varies across time, indicating a dynamic innovation cycle
 
 ---
 
-### 💡 Advanced Insight
+### Advanced Insight
 - The decline from 2020–2023 likely reflects COVID-19-related disruptions in clinical trials and regulatory processes  
-- Recovery post-2023 suggests normalization of drug development pipelines
+- Recovery post 2023 suggests normalization of drug development pipelines
 
 ---
 
-## 📊 Key Visualizations
+## Key Visualizations
 
 - **Total Breakthrough Approvals KPI**  
   Provides an overview of total approvals, companies, and therapy areas.
