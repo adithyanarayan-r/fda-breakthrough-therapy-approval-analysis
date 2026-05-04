@@ -1,7 +1,7 @@
 # FDA Breakthrough Therapy Approval Analysis (2020–2025)
 
 ## Project Overview
-This project analyzes FDA Breakthrough Therapy drug approvals between 2020 and 2024 using Power BI.  
+This project analyzes FDA Breakthrough Therapy drug approvals between 2020 and 2025 using Power BI.  
 The dashboard examines therapy area distribution, annual approval trends, and leading pharmaceutical companies.
 
 ---
